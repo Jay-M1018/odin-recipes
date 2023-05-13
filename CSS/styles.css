@@ -1,0 +1,45 @@
+html{
+    font-family: Arial, Helvetica, sans-serif;
+}
+body{
+    margin: 0;
+    padding: 0
+}
+.main{
+    border: 2px solid rgb(248, 235, 220);
+    background-color: rgb(243, 240, 237);
+    margin: 0 auto;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 30px;
+    width: 60%;
+    height: 100%;
+    text-align: center;
+}
+
+ul{
+    text-align: left;
+    list-style-position: inside;
+    margin-left: 40px;
+    padding-bottom: 30px;
+}
+h1{
+    padding-top: 30px;
+}
+.link{
+    font-size: 12px;
+    text-align: right;
+    margin-bottom: 30px;
+}
+.description{
+    margin: auto 100px;
+    
+}
+.image{
+    height: 350px;
+    width: auto;
+}
+img{
+    height: 100%;
+    width: auto;
+}
